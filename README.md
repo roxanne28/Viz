@@ -5,7 +5,7 @@ link to the live site  https://roxanne28.github.io/Viz/
 <u>Gavi policy notes</u>
 
 Notes: coverage, transition, overview
-<script async src="//jsfiddle.net/roroxom/nc9ao1dr/embed/result/"></script>
+<script async src="//jsfiddle.net/roroxom/nc9ao1dr/embed/"></script>
 
 Notes: coverage, overview
 <script async src="//jsfiddle.net/roroxom/nvteb31f/embed/result/"></script>
@@ -13,7 +13,7 @@ Notes: coverage, overview
 <u>PEPFAR COPs</u>
 
 COPs to Estimated Allocation
-<iframe width="100%" height="300" src="//jsfiddle.net/roroxom/gtxfucda/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<script async src="//jsfiddle.net/roroxom/gtxfucda/embed/result/"></script>
 
 COPs to Budget Request
-<script async src="//jsfiddle.net/roroxom/1r25nk8y/embed/"></script>
+<script async src="//jsfiddle.net/roroxom/1r25nk8y/embed/result/"></script>
