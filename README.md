@@ -7,5 +7,5 @@ Embed snippet using script
 
 Embed snippet using iframe
 <div style="height:500px !important; width:100% !important;" >
-<iframe width="100%" height="300" src="//jsfiddle.net/roroxom/nc9ao1dr/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/roroxom/nc9ao1dr/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 </diV>
