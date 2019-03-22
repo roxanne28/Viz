@@ -2,9 +2,9 @@
 
 link to the live site  https://roxanne28.github.io/Viz/
 
-Coverage, transition, overview
+Notes: coverage, transition, overview
 <script async src="//jsfiddle.net/roroxom/nc9ao1dr/embed/result/"></script>
 
-Coverage, overview
+Notes: coverage, overview
 <script async src="//jsfiddle.net/roroxom/nvteb31f/embed/result/"></script>
 
