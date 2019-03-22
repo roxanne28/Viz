@@ -12,8 +12,8 @@ Notes: coverage, overview
 
 <u>PEPFAR COPs</u>
 
-COP to Budget Request
-<script async src="//jsfiddle.net/roroxom/gtxfucda/embed/result/"></script>
+COPs to Estimated Allocation
+<iframe width="100%" height="300" src="//jsfiddle.net/roroxom/gtxfucda/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
-COP to Estimated Allocation
+COPs to Budget Request
 <iframe width="100%" height="300" src="//jsfiddle.net/roroxom/1r25nk8y/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
