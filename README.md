@@ -2,6 +2,8 @@
 
 link to the live site  https://roxanne28.github.io/Viz/
 
+<b>hi</b>
+
 Notes: coverage, transition, overview
 <script async src="//jsfiddle.net/roroxom/nc9ao1dr/embed/result/"></script>
 
