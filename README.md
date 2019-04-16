@@ -5,7 +5,7 @@ link to the live site  https://roxanne28.github.io/Viz/
 <u>Gavi policy notes</u>
 
 Notes: coverage, transition, overview
-<iframe height="697" style="width: 100%;" scrolling="no" title="Co-financing stage x size of birth cohort" src="//codepen.io/roroxom/embed/VNyWzG/?height=697&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+<iframe height="788" style="width: 100%;" scrolling="no" title="Co-financing stage x size of birth cohort" src="//codepen.io/roroxom/embed/VNyWzG/?height=788&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/roroxom/pen/VNyWzG/'>Co-financing stage x size of birth cohort</a> by Roxanne
   (<a href='https://codepen.io/roroxom'>@roroxom</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
