@@ -12,13 +12,16 @@ Notes: coverage, transition, overview
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+
 Notes: coverage, overview
 <script async src="//jsfiddle.net/roroxom/nvteb31f/embed/result/"></script>
+
 
 <u>PEPFAR COPs</u>
 
 COPs to Estimated Allocation
 <script async src="//jsfiddle.net/roroxom/gtxfucda/embed/result/"></script>
+
 
 COPs to Budget Request
 <script async src="//jsfiddle.net/roroxom/1r25nk8y/embed/result/"></script>
