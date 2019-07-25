@@ -3,7 +3,7 @@
 link to the live site  https://roxanne28.github.io/Viz/
 
 
-new
+OGP
 
 <html prefix="og: http://ogp.me/ns#">
 <head>
@@ -11,22 +11,21 @@ new
 <meta property="og:title" content="TITLE_HERE2" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="jsfiddle.net/roroxom/rhfr55ez" />
-
-...
 </head>
-...
 </html>
 
 
+OGP END
 
-
-
-
-
+IFRAME FULL
 
 <iframe width="100%" height="300" src="//jsfiddle.net/roroxom/rhfr55ez/full/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
+IFRAME NORMAL
+
 <iframe width="100%" height="300" src="//jsfiddle.net/roroxom/rhfr55ez/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+SCRIPT
 
 <script async src="//jsfiddle.net/roroxom/rhfr55ez/embed/result/"></script>
 
