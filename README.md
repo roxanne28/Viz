@@ -2,6 +2,17 @@
 
 link to the live site  https://roxanne28.github.io/Viz/
 
+<iframe width="100%" height="300" src="//jsfiddle.net/roroxom/rhfr55ez/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+<script async src="//jsfiddle.net/roroxom/rhfr55ez/embed/result/"></script>
+
+
+
+
+
+
+
+
 <u>Immunization rates in countries nearing transition from Gavi continue to have low to middling coverage rates</u>
 
 <iframe height="800" style="width: 100%;" scrolling="no" title="Co-financing stage x size of birth cohort" src="//codepen.io/roroxom/full/VNyWzG/?height=265&theme-id=light&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
