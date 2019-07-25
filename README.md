@@ -2,6 +2,18 @@
 
 link to the live site  https://roxanne28.github.io/Viz/
 
+DEBUG
+
+<iframe height="800" style="width: 100%;" scrolling="no" title="Co-financing stage x size of birth cohort" src="//codepen.io/roroxom/full/VNyWzG/?height=265&theme-id=light&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://s.codepen.io/roroxom/debug/VNyWzG/LQAExKBeOLyr'>Co-financing stage x size of birth cohort</a> by Roxanne
+  (<a href='https://codepen.io/roroxom'>@roroxom</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+
+DEBUG 2
+
+
+
 <script async src="//s.codepen.io/roroxom/debug/VNyWzG/LQAExKBeOLyr"></script>
 
 https://s.codepen.io/roroxom/debug/VNyWzG/LQAExKBeOLyr
