@@ -2,6 +2,9 @@
 
 link to the live site  https://roxanne28.github.io/Viz/
 
+<script async src="//s.codepen.io/roroxom/debug/VNyWzG/LQAExKBeOLyr"></script>
+
+https://s.codepen.io/roroxom/debug/VNyWzG/LQAExKBeOLyr
 
 OGP
 
@@ -19,7 +22,8 @@ OGP END
 
 IFRAME FULL
 
-<iframe width="100%" height="300" src="//jsfiddle.net/roroxom/rhfr55ez/full/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/roroxom/rhfr55ez/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
 
 IFRAME NORMAL
 
